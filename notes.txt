@@ -1,0 +1,12 @@
+  https://expo.github.io/router/docs/
+  
+> npx create-expo-app@latest --example with-router ./   
+> npx expo install expo-router react-native-safe-area-context 
+  react-native-screens expo-linking expo-constants expo-status-bar 
+  react-native-gesture-handler
+> npm install expo-font axios react-native-dotenv   
+> npx expo start
+
+  https://react-native-async-storage.github.io/async-storage/docs/install
+> npm install @react-native-async-storage/async-storage
+
