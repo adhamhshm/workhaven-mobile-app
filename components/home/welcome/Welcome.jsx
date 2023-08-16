@@ -16,7 +16,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
         <View>
             <View style={styles.container}>
                 <Text style={styles.userName}>
-                    Welcome to Workhaven
+                    Welcome to WorkHaven
                 </Text>
                 <Text style={styles.welcomeMessage}>
                     Find your dream jobs!
