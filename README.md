@@ -1,11 +1,17 @@
+# WorkHaven Mobile App
+
+React Native crash course for creating a job search platform application to find your dream jobs around the world.
+
+![WorkHaven Screens](screenshots/workhaven-screenshots.png)
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
-## 🚀 How to use
+# Run the application on your device
 
 ```sh
-npx create-expo-app -e with-router
+npx expo start
 ```
 
 ## 📝 Notes
