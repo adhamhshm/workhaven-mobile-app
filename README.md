@@ -1,7 +1,7 @@
 # WorkHaven Mobile App
 
 React Native crash course for creating a job search platform application to find your dream jobs around the world.
-The API for the application is retrieved from [JSearch](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) via Rapid API
+The API for the application is retrieved from [JSearch](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) via Rapid API.
 
 ![WorkHaven Screens](screenshots/workhaven-screenshots.png)
 
